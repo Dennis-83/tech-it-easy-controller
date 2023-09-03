@@ -17,7 +17,7 @@ public class TelevisionController {
     public TelevisionController() {
         Television t = new Television();
         t.setBrand("LG");
-        t.setName("OLED EVO C3 77");
+        t.setName("OLED EVO C3-77");
         t.setPrice(1500);
         televisions.add(t);
     }
